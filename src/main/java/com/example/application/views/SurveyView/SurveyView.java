@@ -1,3 +1,5 @@
+package com.example.application.views.SurveyView;
+
 import com.vaadin.flow.component.checkbox.Checkbox;
 import com.vaadin.flow.component.dependency.CssImport;
 import com.vaadin.flow.component.formlayout.FormLayout;

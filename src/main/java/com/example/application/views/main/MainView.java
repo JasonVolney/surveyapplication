@@ -22,6 +22,7 @@ import com.vaadin.flow.server.PWA;
 import com.vaadin.flow.theme.Theme;
 import com.example.application.views.main.MainView;
 import com.example.application.views.HomeView.HomeView;
+import com.example.application.views.SurveyView.SurveyView;
 import com.example.application.views.creditcardform.CreditCardFormView;
 import com.example.application.views.personform.PersonFormView;
 
