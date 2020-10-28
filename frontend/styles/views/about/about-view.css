@@ -1,0 +1,17 @@
+#about-view {
+  padding: var(--lumo-space-m) var(--lumo-space-l);  
+  margin-left: 250rem;
+  max-width: 1024px;
+}
+
+:host {  
+  padding: var(--lumo-space-m) var(--lumo-space-l);
+}
+
+#image1{
+  width: 5rem;
+}
+
+div{
+  margin-left: 15rem;
+}
