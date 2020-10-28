@@ -32,7 +32,7 @@ Pesquisas são fontes primárias de valiosas informações, suas informações, 
 
 Você já ouviu falar em algum APP trabalhe com remuneração de candidatos de pesquisas? 
 
-A título de curiosidade listamos alguns exemplos extraídos do artigo "[Como ganhar dinheiro respondendo pesquisas na internet](https://www.techtudo.com.br/listas/2019/11/como-ganhar-dinheiro-respondendo-pesquisas-na-internet-veja-seis-sites.ghtml)":
+A título de curiosidade listamos alguns exemplos extraídos do artigo "[Como ganhar dinheiro respondendo pesquisas na internet](https://www.techtudo.com.br/listas/2019/11/como-ganhar-dinheiro-respondendo-pesquisas-na-internet-veja-seis-sites.ghtml)", são eles: 1. Survey Pronto \(surveypronto.com.br\) 2. My Iyo \(myiyo.com\) 3. LifePoints \(lifepointspanel.com\) 4. Toluna \(br.toluna.com\) 5. QualiBest \(qualibest.com\) 6. LIVRA \(social.livra.com\)
 
 **Fase 1** - A missão de sua "squad" é elaborar um sistema web para aplicar pesquisas. São requisitos do sistema: Uma página com formulário para cadastrar as perguntas e alternativas. Uma página para realizar a pesquisa. As questões do sistema devem, inicialmente, estar vinculadas ao [Sheety.co](https://sheety.co/). O questionário deve fornecer um feedback \(PADRÃO\) a cada pergunta respondida. A página de cadastro deve exigir autenticação. A página de pesquisa não deve exigir autenticação.
 
