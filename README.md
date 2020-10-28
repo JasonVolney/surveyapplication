@@ -66,9 +66,9 @@ internos que somam 180°."Fonte: https://pt.wikipedia.org/wiki/Tri%C3%A2ngulo
 
 ## **Nossa API**
 
-[http://abre.ai/api-shetty](http://abre.ai/api-shetty)
+[http://abre.ai/api-shetty](http://abre.ai/api-shetty)\*\*\*\*
 
-## **Nosso Wireframe**
+**Nosso Wireframe**
 
 {% embed url="https://www.figma.com/file/IqDdqQpP1E0DyRzOlNgxM1/logo?node-id=0%3A1" %}
 
