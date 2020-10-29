@@ -34,7 +34,7 @@ Você já ouviu falar em algum APP trabalhe com remuneração de candidatos de p
 
 A título de curiosidade listamos alguns exemplos extraídos do artigo "[Como ganhar dinheiro respondendo pesquisas na internet](https://www.techtudo.com.br/listas/2019/11/como-ganhar-dinheiro-respondendo-pesquisas-na-internet-veja-seis-sites.ghtml)", são eles: 1. Survey Pronto \(surveypronto.com.br\) 2. My Iyo \(myiyo.com\) 3. LifePoints \(lifepointspanel.com\) 4. Toluna \(br.toluna.com\) 5. QualiBest \(qualibest.com\) 6. LIVRA \(social.livra.com\)
 
-**Fase 1** - A missão de sua "squad" é elaborar um sistema web para aplicar pesquisas. São requisitos do sistema: Uma página com formulário para cadastrar as perguntas e alternativas. Uma página para realizar a pesquisa. As questões do sistema devem, inicialmente, estar vinculadas ao [Sheety.co](https://sheety.co/). O questionário deve fornecer um feedback \(PADRÃO\) a cada pergunta respondida. A página de cadastro deve exigir autenticação. A página de pesquisa não deve exigir autenticação.
+**Fase 1** - A missão de sua "squad" é elaborar um sistema web para aplicar pesquisas. São requisitos do sistema: Uma página com formulário para cadastrar as perguntas e alternativas. Uma página para realizar a pesquisa. As questões do sistema devem, inicialmente, estar vinculadas ao [Sheety.co](https://sheety.co/). O questionário deve fornecer um feedback \(PADRÃO\) a cada pergunta respondida. A página de cadastro deve exigir [autenticação](https://github.com/auth0/java-jwt). A página de pesquisa não deve exigir autenticação.
 
 São dois modelos de pesquisa a ser realizados: Qual seu perfil de liderança? Questionário de múltipla escolha com uma alternativa certa.
 
