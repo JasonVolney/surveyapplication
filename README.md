@@ -6,7 +6,7 @@ description: Sistema de Pesquisas
 
 ## Integrantes da Squad C
 
-Jason, Guilherme, Vinícius Dias, Félix, Geovane, Theo, Geovanna Carseta.
+Jason, Guilherme, Félix, Geovane, Theo, Geovanna Carseta.
 
 ## GitHub dos participantes:
 
